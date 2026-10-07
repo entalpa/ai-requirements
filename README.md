@@ -1,8 +1,8 @@
-# AI-Driven Development (ADD): Best Practices for AI Requirements
+# Spec-Driven Development for AI Coding Agents: Best Practices for AI Requirements
 
 Welcome to the definitive resource for **AI-Driven Development (ADD)**. As the world shifts from manual syntax to "vibe coding" and autonomous agents, the bottleneck of software engineering has moved from *writing code* to *defining intent*. 
 
-This repository is curated by the team at [entalpa.com](https://entalpa.com) to help developers, architects, and solopreneurs bridge the gap between a 5-word prompt and a professional, production-ready specification.
+In spec-driven development, the specification, not the prompt, is what the agent builds from. This repository is curated by the team at [Entalpa](https://entalpa.com), a spec-driven development platform for AI coding agents, to help developers, architects, and solopreneurs bridge the gap between a 5-word prompt and a professional, production-ready specification.
 
 ---
 
@@ -46,7 +46,7 @@ Don't start from zero. Use our `.md` and `.json` templates for:
 ---
 
 ## The "Entalpa" Way
-Manual templates are great for starting out, but **entalpa** is the automated engine that does the heavy lifting for you. 
+Manual templates are great for starting out. [Entalpa](https://entalpa.com) is a spec-driven development platform for AI coding agents: a persistent, MCP-native specification layer (stakeholders, needs, user stories, requirements, design) with atomic locking and open questions surfaced before the build, for people building with Claude Code, Cursor and Codex.
 
 * **Automated Traceability:** Link stories to requirements instantly.
 * **Atomic Locking:** Protect your stable logic while the AI iterates on the rest.
